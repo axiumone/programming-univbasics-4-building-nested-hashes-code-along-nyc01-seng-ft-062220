@@ -14,6 +14,7 @@ def third_challenge
         :age => "15",
         :status => "alive"
         },
+<<<<<<< HEAD
       :hero_friends => [
         {
           :age=>"17",
@@ -25,6 +26,9 @@ def third_challenge
           :name=>"Mercutio"
           }
         ]
+=======
+      :hero_friends => []
+>>>>>>> 199b41748f82993390169a0ec0263aaf4a9586df
    },
    :capulet => {
       :patriarch => {
